@@ -1,4 +1,4 @@
-# Github contributions are bullshit.
+# Github Contributions Are Bullshit.
 
 More specifically,
 [Github's rules for what counts as a contribution](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
@@ -22,5 +22,5 @@ myself accountable to my goal. So, in order to make that happen, when
 I make a change that isn't counted, I'll make a note in this `README`
 file, and push that change up. Problem solved.
 
-# These too are contributions
+# These Too Are Contributions
 
