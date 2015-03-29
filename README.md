@@ -24,3 +24,8 @@ file, and push that change up. Problem solved.
 
 # These Too Are Contributions
 
+* 20150328: commits to [https://github.com/genehack/Git-Wrapper](Git::Wrapper):
+      6c73c392e4635ccef2a30394cea6bc21b3c1a2ad
+      f89a0c8935e7f6b530f88cce2213dc21455d1b4b
+      8455256c76ed24848052858a98d349ad0f832f0e
+      92ced1ebdb14af969e6dfb6ee84311236dd9ac8e
