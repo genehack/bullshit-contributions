@@ -23,6 +23,10 @@ I make a change that isn't counted, I'll make a note in this `README`
 file, and push that change up. Problem solved.
 
 # These Too Are Contributions
+* 20150719: commits to
+  [https://github.com/genehack/Git-Wrapper](Git::Wrapper) including
+  0.045 release.
+
 * 20150713: commits to [https://github.com/genehack/Git-Wrapper](Git::Wrapper)
 
 * 20150506: commits to [https://github.com/genehack/Git-Wrapper](Git::Wrapper):
